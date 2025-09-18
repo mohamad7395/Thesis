@@ -1,0 +1,1261 @@
+raw_text,aspectTerms,labels,text,prediction
+Can't wait wait for my next visit.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Can't wait wait for my next visit. 
+output:",['noaspectterm']
+I had a great experience.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I had a great experience. 
+output:",['noaspectterm']
+"Frankly, when you compare what you can have here for lunch, versus McDs or so many other sandwich shops in the city, there is no comparison.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Frankly, when you compare what you can have here for lunch, versus McDs or so many other sandwich shops in the city, there is no comparison. 
+output:",['noaspectterm']
+Go hungry and enjoy.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Go hungry and enjoy. 
+output:",['noaspectterm']
+"The service varys from day to day- sometimes they're very nice, and sometimes not.","[{'term': 'service', 'polarity': 'negative'}]",['service'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The service varys from day to day- sometimes they're very nice, and sometimes not. 
+output:",['service']
+"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.","[{'term': 'ambience', 'polarity': 'positive'}]",['ambience'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The ambience is pretty and nice for conversation, so a casual lunch here would probably be best. 
+output:",['ambience']
+Have been dozens of times and never failed to enjoy the experience.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Have been dozens of times and never failed to enjoy the experience. 
+output:",['noaspectterm']
+This is by far my favorite place in the neighborhood.,"[{'term': 'place', 'polarity': 'positive'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: This is by far my favorite place in the neighborhood. 
+output:",['place']
+They refuse to seat parties of 3 or more on weekends.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: They refuse to seat parties of 3 or more on weekends. 
+output:",['noaspectterm']
+This is a fun restaurant to go to.,"[{'term': 'restaurant', 'polarity': 'positive'}]",['restaurant'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: This is a fun restaurant to go to. 
+output:",['restaurant']
+"Service was prompt, friendly and great.","[{'term': 'Service', 'polarity': 'positive'}]",['Service'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Service was prompt, friendly and great. 
+output:",['Service']
+"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.","[{'term': 'food', 'polarity': 'positive'}, {'term': 'service', 'polarity': 'positive'}]","['food', 'service']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed. 
+output:","['food', 'service']"
+I've been there three times and have always had wonderful experiences.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I've been there three times and have always had wonderful experiences. 
+output:",['noaspectterm']
+"Raga's is a romantic, cozy restaurant.","[{'term': '""Ragas""', 'polarity': 'positive'}]",['Ragas'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Raga's is a romantic, cozy restaurant. 
+output:",['Ragas']
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,"[{'term': 'outdoor atmosphere', 'polarity': 'positive'}]",['outdoor atmosphere'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful. 
+output:",['outdoor atmosphere']
+But too far east!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: But too far east! 
+output:",['noaspectterm']
+"This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater. 
+output:",['noaspectterm']
+Try the lobster teriyaki and the rose special roll.,"[{'term': 'lobster teriyaki', 'polarity': 'positive'}, {'term': 'rose special roll', 'polarity': 'positive'}]","['lobster teriyaki', 'rose special roll']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Try the lobster teriyaki and the rose special roll. 
+output:","['lobster teriyaki', 'rose special roll']"
+You cannot go wrong at the Red Eye Grill.,"[{'term': 'Red Eye Grill', 'polarity': 'positive'}]",['Red Eye Grill'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: You cannot go wrong at the Red Eye Grill. 
+output:",['Red Eye Grill']
+I would highly recommend it.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I would highly recommend it. 
+output:",['noaspectterm']
+All the staff is absolutely professional!! ,"[{'term': 'staff', 'polarity': 'positive'}]",['staff'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: All the staff is absolutely professional!!  
+output:",['staff']
+Went here on a friend's reccomendation.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Went here on a friend's reccomendation. 
+output:",['noaspectterm']
+"Yes, the prices are high, but I felt it was worth it.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Yes, the prices are high, but I felt it was worth it. 
+output:",['noaspectterm']
+We all felt it was worth it.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We all felt it was worth it. 
+output:",['noaspectterm']
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.,"[{'term': 'place', 'polarity': 'neutral'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Kind of a small place but I guess if they are not too busy might be able to fit a group or kids. 
+output:",['place']
+Coming from Boston this place is like Emma's Pizza in Kendall Square in Cambridge (although they have more funky toppings!),"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Coming from Boston this place is like Emma's Pizza in Kendall Square in Cambridge (although they have more funky toppings!) 
+output:",['noaspectterm']
+The food is authentic Italian - delicious!,"[{'term': 'food', 'polarity': 'positive'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food is authentic Italian - delicious! 
+output:",['food']
+"Ambience is delightful, service impeccable.","[{'term': 'Ambience', 'polarity': 'positive'}, {'term': 'service', 'polarity': 'positive'}]","['Ambience', 'service']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Ambience is delightful, service impeccable. 
+output:","['Ambience', 'service']"
+Service is not what one would expect from a joint in this price category.,"[{'term': 'Service', 'polarity': 'negative'}]",['Service'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Service is not what one would expect from a joint in this price category. 
+output:",['Service']
+My boyfriend had Prime Rib it was good .,"[{'term': 'Prime Rib', 'polarity': 'positive'}]",['Prime Rib'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: My boyfriend had Prime Rib it was good . 
+output:",['Prime Rib']
+People dress in suits or evening gowns as well as shirts jeans.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: People dress in suits or evening gowns as well as shirts jeans. 
+output:",['noaspectterm']
+Please be aware that it's CASH or AMEX only!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Please be aware that it's CASH or AMEX only! 
+output:",['noaspectterm']
+Our food was great too!,"[{'term': 'food', 'polarity': 'positive'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Our food was great too! 
+output:",['food']
+"The food however, is what one might expect.","[{'term': 'food', 'polarity': 'negative'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food however, is what one might expect. 
+output:",['food']
+The lox is always fresh too.,"[{'term': 'lox', 'polarity': 'positive'}]",['lox'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The lox is always fresh too. 
+output:",['lox']
+"When you add it all together, it just doesn't seem worth it to me...especially considering the prices.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: When you add it all together, it just doesn't seem worth it to me...especially considering the prices. 
+output:",['noaspectterm']
+"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.","[{'term': 'atmosphere', 'polarity': 'positive'}]",['atmosphere'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo. 
+output:",['atmosphere']
+Try green curry with vegetables.,"[{'term': 'green curry with vegetables', 'polarity': 'positive'}]",['green curry with vegetables'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Try green curry with vegetables. 
+output:",['green curry with vegetables']
+The service was excellent - friendly and attentive.,"[{'term': 'service', 'polarity': 'positive'}]",['service'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The service was excellent - friendly and attentive. 
+output:",['service']
+"The food is good, I can't lie.","[{'term': 'food', 'polarity': 'positive'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food is good, I can't lie. 
+output:",['food']
+The hostess and the waitress were incredibly rude and did everything they could to rush us out.,"[{'term': 'hostess', 'polarity': 'negative'}, {'term': 'waitress', 'polarity': 'negative'}]","['hostess', 'waitress']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The hostess and the waitress were incredibly rude and did everything they could to rush us out. 
+output:","['hostess', 'waitress']"
+We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,"[{'term': 'waitress', 'polarity': 'negative'}]",['waitress'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order. 
+output:",['waitress']
+I know because I live nearby.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I know because I live nearby. 
+output:",['noaspectterm']
+As a student in NYU i need a place to eat after a hard day of work so usually i just go to any indian restraunt near by. ,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: As a student in NYU i need a place to eat after a hard day of work so usually i just go to any indian restraunt near by.  
+output:",['noaspectterm']
+but ive heard a lot about this for the past 2 yrs and finally decided to eat here.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: but ive heard a lot about this for the past 2 yrs and finally decided to eat here. 
+output:",['noaspectterm']
+Will never be back.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Will never be back. 
+output:",['noaspectterm']
+Planet Thai is great!,"[{'term': 'Planet Thai', 'polarity': 'positive'}]",['Planet Thai'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Planet Thai is great! 
+output:",['Planet Thai']
+Chennai Garden is my favorite Indian restaurant in the city.,"[{'term': 'Chennai Garden', 'polarity': 'positive'}]",['Chennai Garden'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Chennai Garden is my favorite Indian restaurant in the city. 
+output:",['Chennai Garden']
+This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.,"[{'term': 'restaurant', 'polarity': 'positive'}]",['restaurant'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates. 
+output:",['restaurant']
+Not a great place for family or general dining.,"[{'term': 'place', 'polarity': 'negative'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Not a great place for family or general dining. 
+output:",['place']
+Food is excellent.,"[{'term': 'Food', 'polarity': 'positive'}]",['Food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Food is excellent. 
+output:",['Food']
+The only fallback on this restaurant is the prices.,"[{'term': 'restaurant', 'polarity': 'negative'}]",['restaurant'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The only fallback on this restaurant is the prices. 
+output:",['restaurant']
+"They don't concern much of customer's health, just want to make money.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: They don't concern much of customer's health, just want to make money. 
+output:",['noaspectterm']
+I visit New Green Bo when I have money or when I am broke.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I visit New Green Bo when I have money or when I am broke. 
+output:",['noaspectterm']
+Have frequented 'ino for several years and the food remains excellent.,"[{'term': 'food', 'polarity': 'positive'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Have frequented 'ino for several years and the food remains excellent. 
+output:",['food']
+Definitely a neighborhood favorite.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Definitely a neighborhood favorite. 
+output:",['noaspectterm']
+The wine list is also really nice.,"[{'term': 'wine list', 'polarity': 'positive'}]",['wine list'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The wine list is also really nice. 
+output:",['wine list']
+I would highly recommend this place!,"[{'term': 'place', 'polarity': 'positive'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I would highly recommend this place! 
+output:",['place']
+My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent. 
+output:",['noaspectterm']
+The food was average or above including some surprising tasty dishes.,"[{'term': 'food', 'polarity': 'positive'}, {'term': 'dishes', 'polarity': 'positive'}]","['food', 'dishes']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food was average or above including some surprising tasty dishes. 
+output:","['food', 'dishes']"
+I would go back.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I would go back. 
+output:",['noaspectterm']
+We will be back.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We will be back. 
+output:",['noaspectterm']
+"Average to good Thai food, but terrible delivery.","[{'term': 'Thai food', 'polarity': 'positive'}, {'term': 'delivery', 'polarity': 'negative'}]","['Thai food', 'delivery']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Average to good Thai food, but terrible delivery. 
+output:","['Thai food', 'delivery']"
+An excellent service,"[{'term': 'service', 'polarity': 'positive'}]",['service'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: An excellent service 
+output:",['service']
+delicious simple food in nice outdoor atmosphere.,"[{'term': 'food', 'polarity': 'positive'}, {'term': 'outdoor atmosphere', 'polarity': 'positive'}]","['food', 'outdoor atmosphere']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: delicious simple food in nice outdoor atmosphere. 
+output:","['food', 'outdoor atmosphere']"
+Delicious crab cakes too.,"[{'term': 'crab cakes', 'polarity': 'positive'}]",['crab cakes'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Delicious crab cakes too. 
+output:",['crab cakes']
+They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: They smell like they stuff them with old canned vegetables like the spinach mushroom calzone. 
+output:",['noaspectterm']
+Try sushimi cucumber roll.,"[{'term': 'sushimi cucumber roll', 'polarity': 'positive'}]",['sushimi cucumber roll'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Try sushimi cucumber roll. 
+output:",['sushimi cucumber roll']
+Winnie and her staff are the best crew you can find serving you.,"[{'term': 'staff', 'polarity': 'positive'}, {'term': 'Winnie', 'polarity': 'positive'}]","['staff', 'Winnie']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Winnie and her staff are the best crew you can find serving you. 
+output:","['Winnie', 'staff']"
+"The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).","[{'term': 'wait staff', 'polarity': 'positive'}]",['wait staff'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way). 
+output:",['wait staff']
+Suan is a great place that I often take my friends (classmates) too.,"[{'term': 'Suan', 'polarity': 'positive'}]",['Suan'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Suan is a great place that I often take my friends (classmates) too. 
+output:",['Suan']
+The food now is inconsistent.,"[{'term': 'food', 'polarity': 'negative'}]",['food'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food now is inconsistent. 
+output:",['food']
+"if you're daring, try the balsamic vinegar over icecream, it's wonderful!","[{'term': 'balsamic vinegar over icecream', 'polarity': 'positive'}]",['balsamic vinegar over icecream'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: if you're daring, try the balsamic vinegar over icecream, it's wonderful! 
+output:",['balsamic vinegar over icecream']
+These are overpriced and you can get better just around the corner:,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: These are overpriced and you can get better just around the corner: 
+output:",['noaspectterm']
+How do you rate home?,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: How do you rate home? 
+output:",['noaspectterm']
+"The food was not fresh, the sauces were bland and very oily.","[{'term': 'food', 'polarity': 'negative'}, {'term': 'sauces', 'polarity': 'negative'}]","['food', 'sauces']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The food was not fresh, the sauces were bland and very oily. 
+output:","['food', 'sauces']"
+Wouldn't recomend it for dinner!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Wouldn't recomend it for dinner! 
+output:",['noaspectterm']
+This is an amazing place to try some roti rolls.,"[{'term': 'roti rolls', 'polarity': 'positive'}]",['roti rolls'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: This is an amazing place to try some roti rolls. 
+output:",['roti rolls']
+We were seated outside and the waiter spilled red wine and hot tea on myself and my date.,"[{'term': 'waiter', 'polarity': 'negative'}]",['waiter'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We were seated outside and the waiter spilled red wine and hot tea on myself and my date. 
+output:",['waiter']
+The only problem is that the manager is a complete incompetent.,"[{'term': 'manager', 'polarity': 'negative'}]",['manager'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The only problem is that the manager is a complete incompetent. 
+output:",['manager']
+We got most of it back at home with us.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We got most of it back at home with us. 
+output:",['noaspectterm']
+I love it.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I love it. 
+output:",['noaspectterm']
+The Cypriot restaurant has a lot going for it.,"[{'term': 'Cypriot restaurant', 'polarity': 'positive'}]",['Cypriot restaurant'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The Cypriot restaurant has a lot going for it. 
+output:",['Cypriot restaurant']
+"I LOOOVE their eggplant pizza, as well as their pastas!","[{'term': 'eggplant pizza', 'polarity': 'positive'}, {'term': 'pastas', 'polarity': 'positive'}]","['eggplant pizza', 'pastas']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I LOOOVE their eggplant pizza, as well as their pastas! 
+output:","['eggplant pizza', 'pastas']"
+Great sake!,"[{'term': 'sake', 'polarity': 'positive'}]",['sake'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Great sake! 
+output:",['sake']
+The sashimi is always fresh and the rolls are innovative and delicious.,"[{'term': 'sashimi', 'polarity': 'positive'}, {'term': 'rolls', 'polarity': 'positive'}]","['sashimi', 'rolls']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The sashimi is always fresh and the rolls are innovative and delicious. 
+output:","['sashimi', 'rolls']"
+My wife and I went to Water's Edge for a romantic dinner.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: My wife and I went to Water's Edge for a romantic dinner. 
+output:",['noaspectterm']
+I ordered the vitello alla marsala and I was pretty impressed.,"[{'term': 'vitello alla marsala', 'polarity': 'positive'}]",['vitello alla marsala'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I ordered the vitello alla marsala and I was pretty impressed. 
+output:",['vitello alla marsala']
+The potato balls were not dry at all... in fact it was buttery.,"[{'term': 'potato balls', 'polarity': 'positive'}]",['potato balls'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The potato balls were not dry at all... in fact it was buttery. 
+output:",['potato balls']
+overpriced japanese food with mediocre service,"[{'term': 'japanese food', 'polarity': 'negative'}, {'term': 'service', 'polarity': 'neutral'}]","['japanese food', 'service']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: overpriced japanese food with mediocre service 
+output:","['japanese food', 'service']"
+My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.,"[{'term': 'quesadilla', 'polarity': 'negative'}]",['quesadilla'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor. 
+output:",['quesadilla']
+I come here enjoy very much with husband.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: I come here enjoy very much with husband. 
+output:",['noaspectterm']
+"Delicious, creative and fun.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Delicious, creative and fun. 
+output:",['noaspectterm']
+It is so romantic.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: It is so romantic. 
+output:",['noaspectterm']
+For a Fabulous Wedding!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: For a Fabulous Wedding! 
+output:",['noaspectterm']
+"Service ok but unfriendly,filthy bathroom.","[{'term': 'Service', 'polarity': 'negative'}, {'term': 'bathroom', 'polarity': 'negative'}]","['Service', 'bathroom']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Service ok but unfriendly,filthy bathroom. 
+output:","['Service', 'bathroom']"
+"The bar drinks were Eh, ok to say the least.","[{'term': 'bar drinks', 'polarity': 'negative'}]",['bar drinks'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The bar drinks were Eh, ok to say the least. 
+output:",['bar drinks']
+"During our trip to NYC, we made reservations to dine in the pool room of the Four Seasons for their pre-theater menu (offering a modified menu for $65 pp).","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: During our trip to NYC, we made reservations to dine in the pool room of the Four Seasons for their pre-theater menu (offering a modified menu for $65 pp). 
+output:",['noaspectterm']
+"short and sweet – seating is great:it's romantic,cozy and private.","[{'term': 'seating', 'polarity': 'positive'}]",['seating'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: short and sweet – seating is great:it's romantic,cozy and private. 
+output:",['seating']
+"If you're into being lost when you're just five feet from your table then hey, that's a good thing.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: If you're into being lost when you're just five feet from your table then hey, that's a good thing. 
+output:",['noaspectterm']
+Dessert: pure disaster.,"[{'term': 'Dessert', 'polarity': 'negative'}]",['Dessert'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Dessert: pure disaster. 
+output:",['Dessert']
+BUT not in a good way.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: BUT not in a good way. 
+output:",['noaspectterm']
+Although we were told 10-15 minutes and it was more like 45 minutes.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Although we were told 10-15 minutes and it was more like 45 minutes. 
+output:",['noaspectterm']
+"Since we were already waiting so long, we felt we had no other choice but to accept it.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Since we were already waiting so long, we felt we had no other choice but to accept it. 
+output:",['noaspectterm']
+After the 4th time i asked again and the waiter than said after our dinner.,"[{'term': 'waiter', 'polarity': 'negative'}]",['waiter'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: After the 4th time i asked again and the waiter than said after our dinner. 
+output:",['waiter']
+"Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE""","[{'term': 'Bukhara Grill', 'polarity': 'positive'}]",['Bukhara Grill'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE"" 
+output:",['Bukhara Grill']
+Gorgeous place ideal for a romantic dinner,"[{'term': 'place', 'polarity': 'positive'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Gorgeous place ideal for a romantic dinner 
+output:",['place']
+Too bad I had paid an extra $2 for the stone bowl.,"[{'term': 'stone bowl', 'polarity': 'negative'}]",['stone bowl'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Too bad I had paid an extra $2 for the stone bowl. 
+output:",['stone bowl']
+"The side dishes were passable, and I did get a refill upon request.","[{'term': 'side dishes', 'polarity': 'neutral'}]",['side dishes'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The side dishes were passable, and I did get a refill upon request. 
+output:",['side dishes']
+We've tried before but it always packed and doesn't take reservations.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We've tried before but it always packed and doesn't take reservations. 
+output:",['noaspectterm']
+We paid a fixed pricce but got nothing!!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: We paid a fixed pricce but got nothing!! 
+output:",['noaspectterm']
+Over all it was a very nice romantic place .,"[{'term': 'place', 'polarity': 'positive'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Over all it was a very nice romantic place . 
+output:",['place']
+A coworker and I tried Pacifico after work a few Fridays and loved it.,"[{'term': 'Pacifico', 'polarity': 'positive'}]",['Pacifico'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: A coworker and I tried Pacifico after work a few Fridays and loved it. 
+output:",['Pacifico']
+supercilious scorn is in.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: supercilious scorn is in. 
+output:",['noaspectterm']
+If I could give 0 stars I would do so for this place.,"[{'term': 'place', 'polarity': 'negative'}]",['place'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: If I could give 0 stars I would do so for this place. 
+output:",['place']
+Great Hot Dogs!,"[{'term': 'Hot Dogs', 'polarity': 'positive'}]",['Hot Dogs'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Great Hot Dogs! 
+output:",['Hot Dogs']
+"But nonetheless--great spot, great food.","[{'term': 'spot', 'polarity': 'positive'}, {'term': 'food', 'polarity': 'positive'}]","['spot', 'food']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: But nonetheless--great spot, great food. 
+output:","['spot', 'food']"
+"His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening. 
+output:",['noaspectterm']
+Highly recommend it!,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Highly recommend it! 
+output:",['noaspectterm']
+Here the hot dog is elevated to the level of a real entree with numerous variations available.,"[{'term': 'hot dog', 'polarity': 'positive'}]",['hot dog'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Here the hot dog is elevated to the level of a real entree with numerous variations available. 
+output:",['hot dog']
+"On the way out, we heard of other guests complaining about similar issues.","[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: On the way out, we heard of other guests complaining about similar issues. 
+output:",['noaspectterm']
+Wow.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: Wow. 
+output:",['noaspectterm']
+"The bread was stale, the salad was overpriced and empty.","[{'term': 'bread', 'polarity': 'negative'}, {'term': 'salad', 'polarity': 'negative'}]","['bread', 'salad']","Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The bread was stale, the salad was overpriced and empty. 
+output:","['bread', 'salad']"
+"The pasta was well cooked, didn't have enough sauce though or flavor.","[{'term': 'pasta', 'polarity': 'positive'}]",['pasta'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The pasta was well cooked, didn't have enough sauce though or flavor. 
+output:",['pasta']
+The three of us standing in front of her should have been an indication of how many of us there were.,"[{'term': 'noaspectterm', 'polarity': 'none'}]",['noaspectterm'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: The three of us standing in front of her should have been an indication of how many of us there were. 
+output:",['noaspectterm']
+bad staff,"[{'term': 'staff', 'polarity': 'negative'}]",['staff'],"Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
+        Positive example 1-
+        input: With the great variety on the menu , I eat here often and never get bored.
+        output: menu
+        Positive example 2- 
+        input: Great food, good size menu, great service and an unpretensious setting.
+        output: food, menu, service, setting
+        Now complete the following example-
+        input: bad staff 
+output:",['staff']

@@ -1,0 +1,19 @@
+,Model,Data_Source,Variation,Laptop14_F1,Rest14_F1,Rest15_F1,Rest16_F1
+0,T5-Base,Original,Original,79.78,86.25,88.74,91.86
+1,T5-Base,Agentic,Gen. x1,77.42,79.64,81.54,88.29
+2,T5-Base,Agentic,Gen. x2,78.05,80.0,81.73,89.26
+3,T5-Base,Prompting,Gen. x1,75.86,76.85,81.84,87.57
+4,T5-Base,Prompting,Gen. x2,74.92,75.53,80.44,86.66
+5,T5-Base,Agentic,Mixed x1,83.38,86.78,88.92,93.33
+6,T5-Base,Agentic,Mixed x2,81.34,86.42,88.56,93.17
+7,T5-Base,Prompting,Mixed x1,79.93,86.96,88.37,93.82
+8,T5-Base,Prompting,Mixed x2,81.34,85.62,88.37,93.0
+9,Tk-Instruct,Original,Original,82.75,87.41,88.56,94.3
+10,Tk-Instruct,Agentic,Gen. x1,74.6,79.37,80.44,88.78
+11,Tk-Instruct,Agentic,Gen. x2,76.64,79.1,79.88,89.26
+12,Tk-Instruct,Prompting,Gen. x1,73.04,76.25,82.28,86.17
+13,Tk-Instruct,Prompting,Gen. x2,72.57,76.25,79.7,85.04
+14,Tk-Instruct,Agentic,Mixed x1,80.72,88.3,88.92,93.33
+15,Tk-Instruct,Agentic,Mixed x2,81.34,87.41,88.74,92.68
+16,Tk-Instruct,Prompting,Mixed x1,80.87,87.58,88.0,92.52
+17,Tk-Instruct,Prompting,Mixed x2,81.19,87.23,87.6,92.84

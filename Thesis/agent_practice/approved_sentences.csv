@@ -1,0 +1,16 @@
+sentence,Terms,Polarity
+The sandwiches were stale and disappointing while YUKA was just average.,"['sandwiches', 'YUKA']","['negative', 'neutral']"
+"The in-house lady DJ played terrible music all night, and our waitress was rude and inattentive.","['in-house lady DJ', 'waitress']","['negative', 'negative']"
+"The wait was surprisingly short, the smoked salmon and roe appetizer was delightful, but the tiramisu was disappointingly dry and flavorless.","['wait', 'smoked salmon and roe appetizer', 'tiramisu']","['positive', 'positive', 'negative']"
+The friendly crew provided excellent service and the egg custards were silky smooth and delicious.,"['crew', 'egg custards']","['positive', 'positive']"
+"The pastries were delightfully fresh and flaky, but the tuna of gari was disappointingly bland and poorly prepared.","['pastries', 'tuna of gari']","['positive', 'negative']"
+"The beer was refreshing and delicious, though the waitresses were rude and inattentive, while the dinner for two was just standard fare.","['beer', 'waitresses', 'dinner for two']","['positive', 'negative', 'neutral']"
+"The calzones were disappointing and had an unpleasant feel to them, while the ravioli was just there.","['calzones', 'feel', 'ravioli']","['negative', 'negative', 'neutral']"
+The chicken pasta was average but Baluchi's service was disappointing.,"['chicken pasta', ""Baluchi's""]","['neutral', 'negative']"
+"The spreads were bland and tasteless, and the delivery guys were consistently late, though the setting was quite charming and elegant.","['spreads', 'delivery guys', 'setting']","['negative', 'negative', 'positive']"
+"While the Indian Chinese food was disappointing and bland, the back room offered a cozy and intimate dining space.","['Indian Chinese', 'back room']","['negative', 'positive']"
+"The jazz duo was fantastic at Cosette, but the pizzas were disappointingly undercooked and bland.","['jazz duo', 'Cosette', 'pizzas']","['positive', 'neutral', 'negative']"
+"The Dancing, White River and Millenium rolls were disappointing, with bland flavors and poor preparation.","['Dancing', 'White River', 'Millenium rolls']",['negative']
+"The salmon dish was perfectly cooked and delicious, while the nakgi-bokum was just okay, but the sea urchin tasted off and wasn't fresh at all.","['salmon dish', 'nakgi-bokum', 'sea urchin']","['positive', 'neutral', 'negative']"
+"The delicious rolls and traditional Greek and Cypriot dishes drew a lively, enthusiastic crowd.","['rolls', 'Greek and Cypriot dishes', 'crowd']","['positive', 'neutral', 'positive']"
+"The Gnocchi was perfectly cooked and delicious, but the cheesecake was dry and flavorless.","['Gnocchi', 'cheesecake']","['positive', 'negative']"

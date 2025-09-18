@@ -1,0 +1,9 @@
+# Ignore everything at top-level...
+/*
+
+# ...but keep these:
+!Thesis/
+!InstructABSA/
+
+# Keep this file
+!.gitignore

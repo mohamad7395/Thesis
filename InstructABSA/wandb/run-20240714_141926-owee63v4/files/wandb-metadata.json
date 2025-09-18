@@ -1,0 +1,41 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2024-07-14T12:19:27.345422",
+    "startedAt": "2024-07-14T12:19:26.598035",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/kevinscaria/InstructABSA.git",
+        "commit": "741e3d86dc325e3181935b93c9172c8804c2fb65"
+    },
+    "email": "mohammad.akbarimonfared@gmail.com",
+    "root": "/Users/mohamad/python-workspace/Intruct_Git/InstructABSA",
+    "host": "mohamads-MBP.fritz.box",
+    "username": "mohamad",
+    "executable": "/Users/mohamad/opt/anaconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 926.3517189025879,
+        "used": 280.6363410949707
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

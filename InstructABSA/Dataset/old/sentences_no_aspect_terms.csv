@@ -1,0 +1,167 @@
+raw_text,aspectTerms,aspectCategories,sentenceId
+Staff moved quickly to organize the dining area before the guests arrived.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",0
+Food was displayed on the counter for pickup.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",1
+Menu items were clearly marked with prices next to each dish.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",2
+A sign by the door indicated the opening hours for the restaurant.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",3
+Dish orders were organized and ready for delivery to the kitchen.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",4
+"Drinks were placed on the counter, awaiting customers.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",5
+Atmosphere changed slightly as the lights were adjusted.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",6
+Pizza was prepared in the back and ready to be served to the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",7
+Dishes were brought from the kitchen to the front for serving.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",8
+Service staff was busy preparing trays with meals for guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",9
+Prices on the board matched those on the printed menu.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",10
+Wine was added to the list of available options on the chalkboard.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",11
+Price tags were affixed to each bottle of wine at the bar.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",12
+Sushi rolls were arranged on the counter by the sushi chef.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",13
+Place settings were adjusted as new customers arrived.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",14
+Meal options were displayed on the screen above the kitchen counter.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",15
+Lunch orders were grouped according to the time they were placed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",16
+Dinner preparations continued as new reservations were checked in.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",17
+Bar staff prepped drink orders while waiting for the next customers.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",18
+Tablecloths were changed as guests were finishing their meals.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",19
+Service orders were separated by type before being handed off to the kitchen.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",20
+Fish was placed on the ice to maintain freshness until preparation.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",21
+Portions of food were served on plates as they were ready to be delivered.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",22
+Ambience of the restaurant adjusted as the evening progressed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",23
+Waiter brought menus to the table as soon as guests sat down.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",24
+Wait times were displayed on the digital board near the entrance.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",25
+Decor items were adjusted to fit the dining area for the evening crowd.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",26
+Staff coordinated with the kitchen to ensure meals were prepared.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",27
+Food was stacked on the side as guests waited for their orders.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",28
+Menu sections included categories like appetizers and main courses.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",29
+Dishes were stacked near the counter for the next service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",30
+Drinks were mixed according to customer preferences.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",31
+Pizza was sliced into individual portions for guests to share.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",32
+Portions were delivered directly to customers at their tables.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",33
+Ambience remained consistent throughout the dining room.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",34
+Waiter set the table with the necessary utensils and napkins.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",35
+Decor was checked for any items that needed rearranging.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",36
+Staff quickly cleared the dishes from the table after guests left.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",37
+Food containers were lined up on shelves for easy access during service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",38
+Menu items were rotated regularly to offer fresh choices.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",39
+Dishes were sorted by course to maintain proper service flow.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",40
+Drinks were delivered to the table promptly as ordered.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",41
+"Pizza was prepared in the back, and the dough was set to rise.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",42
+Portions were served individually and at the same time.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",43
+Ambience remained calm as the evening crowd began to settle in.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",44
+Waiter distributed menus to guests as they arrived at the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",45
+Wait times were reduced as more staff members became available.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",46
+Decor featured modern elements to match the restaurant's vibe.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",47
+Table settings were arranged neatly before guests arrived.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",48
+Staff worked together to clean up tables after guests left.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",49
+Food orders were placed in separate containers for each table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",50
+Menu features were highlighted to make selection easier.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",51
+"Dishes were brought out from the kitchen, ready to be served.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",52
+Drinks were poured into glasses and placed on the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",53
+Pizza was cut into slices for easy sharing.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",54
+Portions were served in large bowls for group dining.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",55
+Ambience changed when the lights dimmed after sunset.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",56
+Waiter took orders and relayed them to the kitchen.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",57
+Wait times were posted for customers waiting outside.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",58
+Decor was maintained by the staff to match the theme of the restaurant.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",59
+Staff helped arrange the dining area to fit the needs of the guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",60
+Food was prepared in advance to ensure it was fresh when served.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",61
+Menu items were updated with seasonal ingredients.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",62
+Dishes were placed on the counter and ready for delivery.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",63
+Drinks were mixed and served as per customer specifications.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",64
+Pizza was baked and delivered quickly to the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",65
+Portions of food were packed for takeout.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",66
+Ambience in the restaurant was a blend of comfort and style.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",67
+Waiter checked in with customers to ensure they had everything they needed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",68
+Wait times were carefully monitored to ensure efficient service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",69
+Decor was updated regularly to keep the restaurant feeling fresh.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",70
+Staff worked together to serve customers in an orderly fashion.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",71
+Food was set on the counter for the next service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",72
+Menu items were updated regularly to feature seasonal dishes.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",73
+Dishes were stacked near the counter for the next service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",74
+Drinks were served in appropriate glasses for each beverage.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",75
+"Pizza was served fresh and hot, with toppings of the customer's choice.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",76
+Portions of food were served hot and on time for each guest.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",77
+"Ambience in the restaurant was bright and airy, fitting the season.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",78
+Waiter ensured that each guest was attended to quickly.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",79
+Wait times were tracked by staff to keep guests informed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",80
+Decor was rearranged before opening to accommodate guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",81
+Staff helped customers find their seats as the restaurant filled up.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",82
+Food orders were placed in separate containers for each table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",83
+Menu featured a variety of options from different cuisines.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",84
+Dishes were organized by course for easy delivery to tables.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",85
+Drinks were delivered to the table promptly as ordered.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",86
+"Pizza was prepared in the back, and the dough was set to rise.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",87
+Portions of food were arranged on trays for easy distribution.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",88
+Ambience remained consistent as the night went on.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",89
+Waiter checked in with guests to ensure they were satisfied.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",90
+Wait times were displayed on a digital board as more people arrived.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",91
+Decor was updated frequently to maintain a fresh appearance.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",92
+Staff cleared empty tables to make space for incoming guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",93
+Food was prepared and served with attention to presentation.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",94
+Menu included vegetarian options for those with dietary preferences.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",95
+Dishes were placed on trays and brought to the table in an orderly manner.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",96
+Drinks were poured and served as customers ordered them.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",97
+Pizza was sliced into portions for each group of guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",98
+Portions were arranged in a visually appealing manner for guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",99
+Ambience in the restaurant was calm and relaxing throughout the evening.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",100
+Waiter delivered menus to customers promptly as they arrived.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",101
+Wait times were adjusted to ensure an efficient dining experience.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",102
+Decor items were selected to create a cohesive and inviting atmosphere.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",103
+Staff prepared extra seating for larger parties as needed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",104
+Food was prepared and packaged for takeout orders.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",105
+"Menu updates included fresh, seasonal ingredients to keep options exciting.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",106
+Dishes were placed in the warmer as they were finished.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",107
+Drinks were offered as soon as guests were seated at their table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",108
+"Pizza was delivered straight from the oven, ready to be served.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",109
+Portions were served in large serving dishes for family-style dining.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",110
+Ambience remained calm as more guests filtered in throughout the evening.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",111
+Waiter moved efficiently between tables to ensure smooth service.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",112
+Wait times were updated in real-time on the digital monitor.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",113
+Decor maintained the theme of the restaurant with consistent color schemes.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",114
+Staff cleared plates and glasses from tables after guests finished.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",115
+Food containers were placed on shelves for easy access during busy hours.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",116
+Menu featured popular choices as well as seasonal specials.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",117
+Dishes were neatly arranged and prepared for the next service round.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",118
+Drinks were placed on the counter for guests to pick up.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",119
+Pizza was baked to perfection and served directly to customers.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",120
+"Portions were prepared with care, ensuring consistency for each meal.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",121
+Ambience in the dining room matched the restaurant’s casual yet stylish theme.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",122
+Waiter greeted guests with a friendly smile and handed them the menus.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",123
+Wait times were measured and adjusted to avoid any long delays.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",124
+"Decor was chosen to fit the modern, chic aesthetic of the restaurant.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",125
+Staff organized seating arrangements for groups of varying sizes.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",126
+Food was plated and placed on serving trays before being taken to tables.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",127
+Menu was printed clearly and displayed prominently for guests to read.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",128
+"Dishes were stacked and organized on shelves, ready for the next service.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",129
+Drinks were served quickly as customers ordered them from the bar.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",130
+Pizza was prepared and ready to be served fresh to the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",131
+Portions were measured for consistent serving sizes throughout the meal.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",132
+"Ambience remained inviting and warm, fitting the overall mood of the restaurant.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",133
+Waiter was attentive and ensured that customers had everything they needed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",134
+Wait times were managed carefully to ensure no one was left waiting too long.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",135
+Decor was carefully curated to give the restaurant a cohesive look and feel.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",136
+Staff set up tables with the appropriate number of chairs for each reservation.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",137
+Food was prepared in advance to ensure it could be served as soon as the order was placed.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",138
+Menu highlighted the day’s special items for easy selection by customers.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",139
+"Dishes were brought out in order, ensuring that all meals were served at the same time.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",140
+Drinks were poured into glasses and placed on trays to be delivered to guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",141
+Pizza was sliced into equal portions to accommodate the number of guests at the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",142
+Portions were served at the right temperature and in the appropriate serving sizes.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",143
+"Ambience shifted as the restaurant filled with more guests, creating a lively atmosphere.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",144
+Waiter made sure that customers were served promptly and without delays.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",145
+Wait times were posted on the board near the entrance so customers could keep track.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",146
+Decor was adjusted as needed to ensure the dining area remained comfortable for guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",147
+Staff worked efficiently to clear tables and prepare for the next round of guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",148
+Food was prepped and organized for easy distribution once orders were taken.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",149
+Menu items were clearly marked to make it easier for customers to choose their meal.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",150
+Dishes were placed on the counter in an organized manner for quick pickup.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",151
+"Drinks were served according to each customer’s preference, ensuring satisfaction.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",152
+Pizza was carefully placed on a tray and brought out to the table.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",153
+"Portions were served with care, maintaining consistency and presentation for each guest.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",154
+Ambience maintained a calm atmosphere as customers continued to enjoy their meals.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",155
+Waiter interacted with guests and ensured all needs were met during their meal.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",156
+Wait times were minimized thanks to efficient staff management during peak hours.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",157
+Decor was updated regularly to keep the restaurant looking fresh and inviting.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",158
+Staff arranged tables and seating to ensure a smooth flow of customers.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",159
+"Food was served promptly once it was ready, ensuring fresh meals for guests.","[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",160
+Menu offered a variety of options to suit different preferences and dietary needs.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",161
+Dishes were cleaned and prepared for the next service shift.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",162
+Drinks were made fresh and served with each customer’s specific order in mind.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",163
+Pizza was brought to the table hot and ready to be enjoyed by all guests.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",164
+Portions were served in a way that accommodated both small and large groups.,"[{'term': 'noaspectterm', 'polarity': 'none'}]","[{'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}]",165
