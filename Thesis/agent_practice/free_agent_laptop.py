@@ -26,7 +26,7 @@ import string
 ########################################################################################Constants########################################################################################
 MAX_SENTENCES = 5400
 
-CSV_FILE = "/home/s6moakba/Thesis/agent_practice/approved_qwen_14_l.csv"
+CSV_FILE = "/home/s6moakba/Thesis/agent_practice/TEST.csv"
 
 local_llm = "qwen2.5:14b"
 

@@ -20,31 +20,64 @@ from evaluate import load
 import nltk
 from nltk.corpus import stopwords
 import string
+import random
 
 
 
 ########################################################################################Constants########################################################################################
-MAX_SENTENCES = 7000
+MAX_SENTENCES = 3
 
-CSV_FILE = "/home/s6moakba/Thesis/agent_practice/approved_qwen_14_r.csv"
+CSV_FILE = "/home/s6moakba/Thesis/agent_practice/TEST.csv"
 
 local_llm = "qwen2.5:14b"
 
-# llama = "llama3.1:8b"
-
-train_set_16 = pd.read_csv('/home/s6moakba/InstructABSA/Dataset/SemEval14/Train/Restaurants_Train.csv')
+# train_set_16 = pd.read_csv('/home/s6moakba/InstructABSA/Dataset/Benchmarks/SemEval14/Train/Restaurants_Train.csv')
 
 
-train_set_16['aspectTerms'] = train_set_16['aspectTerms'].apply(ast.literal_eval)
-train_set_16['aspect'] = train_set_16['aspectTerms'].apply(lambda x: [d['term'] for d in x])
-train_set_16['polarity'] = train_set_16['aspectTerms'].apply(lambda x: [d['polarity'] for d in x])
-training_terms = set(aspect for sublist in train_set_16['aspect'] for aspect in sublist)
+# train_set_16['aspectTerms'] = train_set_16['aspectTerms'].apply(ast.literal_eval)
+# train_set_16['aspect'] = train_set_16['aspectTerms'].apply(lambda x: [d['term'] for d in x])
+# train_set_16['polarity'] = train_set_16['aspectTerms'].apply(lambda x: [d['polarity'] for d in x])
+# training_terms = set(aspect for sublist in train_set_16['aspect'] for aspect in sublist)
+# training_terms.discard('noaspectterm')
+# training_polarities =  ['negative', 'positive', 'neutral','negative', 'positive', 'negative', 'positive']
 
 
-training_terms.discard('noaspectterm')
+def prepare_training_terms(dataset_path: str):
+    """
+    Load a dataset and extract training terms and polarities.
 
+    Args:
+        dataset_path (str): Path to training CSV file (with 'aspectTerms' column).
 
-training_polarities =  ['negative', 'positive', 'neutral','negative', 'positive', 'negative', 'positive']
+    Returns:
+        training_terms (set): Unique aspect terms (excluding 'noaspectterm').
+        training_polarities (list): A fixed pool of polarity labels.
+        train_df (pd.DataFrame): Parsed dataframe with 'aspect' and 'polarity' columns.
+    """
+    df = pd.read_csv(dataset_path)
+
+    # Ensure aspectTerms is a list of dicts
+    df['aspectTerms'] = df['aspectTerms'].apply(ast.literal_eval)
+
+    # Extract aspect + polarity
+    df['aspect'] = df['aspectTerms'].apply(lambda x: [d['term'] for d in x])
+    df['polarity'] = df['aspectTerms'].apply(lambda x: [d['polarity'] for d in x])
+
+    # Collect unique aspect terms
+    training_terms = {a for sub in df['aspect'] for a in sub}
+    training_terms.discard('noaspectterm')
+
+    # Define a polarity pool (you can adjust this if needed)
+    training_polarities = ['negative', 'positive', 'neutral',
+                           'negative', 'positive',
+                           'negative', 'positive']
+
+    return training_terms, training_polarities, df
+
+training_terms, training_polarities, train_df = prepare_training_terms(
+    "/home/s6moakba/InstructABSA/Dataset/Benchmarks/SemEval14/Train/Restaurants_Train.csv"
+)
+
 
 ########################################################################################State########################################################################################
 
@@ -60,7 +93,6 @@ llm = ChatOllama(model=local_llm, temperature=0.0, base_url="http://localhost:11
 
 ########################################################################################Functions########################################################################################
 
-import random
 def get_aspect():
         # label_len = random.randint(1, 1)
         label_len = random.choices([1, 2, 3, 4], weights=[0.6, 0.25, 0.1, 0.05])[0]
@@ -70,8 +102,8 @@ def get_aspect():
         return terms
 
 
-def get_sentences():
-    sampled_rows = train_set_16.sample(n=3)
+def get_sentences(data):
+    sampled_rows = data.sample(n=3)
     raw_text = sampled_rows['raw_text'].tolist()
     return raw_text
 
@@ -85,7 +117,7 @@ def get_info() -> str:
     print('in get info tool')
 
 
-    samples = get_sentences()
+    samples = get_sentences(train_df)
     print('Samples:', samples)
     prompt = f"""Analyze the following sentences and identify:
     1. The dominant writing style 
@@ -484,11 +516,32 @@ initial_state = SentenceState(
     needs_review="NOT_OK"
 )
 
+def process_terms(terms):
+    terms_list = terms[1:-1].split(', ')
+    terms_list = [item[1:-1].replace("\\", "") for item in terms_list]
+    return terms_list
 
+def create_aspect_terms(aspect,polarity):
+    aspect_terms = []
+    for aspect, polarity in zip(aspect, polarity):
+        aspect_terms.append({'term': aspect, 'polarity': polarity})
+    return aspect_terms 
 
 if __name__ == "__main__":
     try:
         final_state = graph.invoke(initial_state, {"recursion_limit": 100000})
+
+        result_df = pd.read_csv(CSV_FILE)
+
+        result_df['Terms'] = result_df['Terms'].apply(process_terms)
+        result_df['Polarity'] = result_df['Polarity'].apply(process_terms)
+
+        result_df['aspectTerms'] = result_df.apply(lambda x: create_aspect_terms(x['Terms'],x['Polarity']),axis=1)
+        result_df.rename(columns={'sentence':'raw_text'},inplace=True)
+        result_df['aspectCategories'] = result_df['aspectTerms'].apply(lambda x: [{'category': 'general', 'polarity': 'neutral'}])
+        result_df['sentenceId'] = result_df.index
+        result_df.to_csv(CSV_FILE, index=False)
+
     except Exception as e:
         print("An error occurred during graph execution, but we're continuing...")
         print("Error:", e)
