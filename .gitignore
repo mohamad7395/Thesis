@@ -4,6 +4,8 @@
 # ...but keep these:
 !Thesis/
 !InstructABSA/
+!requirements.txt
+!README.md
 
 # Keep this file
 !.gitignore
