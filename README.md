@@ -94,4 +94,4 @@ Additional Python scripts for running automated experiments are stored in:
     These paths reflect the extended functionality for generating augmented data and evaluating it within the InstructABSA framework.
 
 ## 📑 Documentation 
-    - [Project Presentation (PDF)](./Docs/Mohamad Akbari Thesis_final.pdf)
+[Presentation](https://github.com/mohamad7395/Thesis/blob/main/Thesis/Docs/Mohamad%20Akbari%20Thesis_final.pdf) 
