@@ -6,7 +6,7 @@ It supports two complementary approaches:
 1. **Agentic Pipeline (LangGraph + Ollama)** – generates sentences with aspect–polarity pairs using a generator + evaluator agent.  
 2. **Prompting Pipeline (Naive Generation)** – directly prompts an LLM to produce aspect–polarity sentences without explicit validation.  
 
-The augmented data is used with the [InstructABSA](https://github.com/yourlink/InstructABSA) framework for training and evaluation.  
+The augmented data is used with the [InstructABSA](https://github.com/kevinscaria/InstructABSA) framework for training and evaluation.  
 
 ---
 
@@ -24,7 +24,7 @@ The augmented data is used with the [InstructABSA](https://github.com/yourlink/I
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourname/absa-augmentation.git
+git clone https://github.com/mohamad7395/Thesis.git
 cd absa-augmentation
 ```
 
@@ -61,7 +61,7 @@ python run_prompting.py
 
 ## Workflow 
 
-
+```
 SemEval Dataset
         │
         ├── Agentic Pipeline  ──> Augmented Data (validated)
@@ -69,5 +69,5 @@ SemEval Dataset
         
 Augmented Data ──> InstructABSA ──> Model Training & Evaluation
 
-
+```
 
