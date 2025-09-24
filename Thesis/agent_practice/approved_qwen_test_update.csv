@@ -1,5 +1,0 @@
-sentence,Terms,Polarity
-"The braised rabbit was overcooked and dry, but the back room felt cramped and uncomfortable. The lobster ravioli was a delightful surprise though, and the brioche and lollies were heavenly treats","['braised rabbit', 'back room', 'lobster ravioli', 'brioche and lollies']","['negative', 'negative', 'positive', 'positive']"
-"The exquisite mushroom sauce, characterized by its robust umami flavor and velvety texture, served as the pièce de résistance of our dining experience, elevating each dish it accompanied to a culinary masterpiece",['mushroom sauce'],['positive']
-"The servers were slow and rude, the Steak Tartare was overcooked and dry, and the shrimp scampi tasted fishy and off","['servers', 'Steak Tartare', 'shrimp scampi']","['negative', 'negative', 'negative']"
-"The dhosas served at the establishment were disappointingly subpar, lacking both the crispness and flavor that one would expect from this culinary staple, thereby significantly detracting from what could otherwise have been a satisfactory dining experience",['dhosas'],['negative']
